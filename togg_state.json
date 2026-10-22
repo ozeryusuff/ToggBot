@@ -1,40 +1,37 @@
 {
-  "pages": {
-    "https://www.togg.com.tr/t10f": {
-      "hash": "0eea35e6871d1f79a75726c9b7f9e333c08ac1395b7dc2455a529e92cba1c983",
-      "keywords": []
-    },
-    "https://www.togg.com.tr/t10f-price-list": {
-      "hash": "0a60449ba97c81381f0bdcb52a07e4ef5b3d54bc4b71a18d8bbdfdbf10823948",
-      "keywords": []
-    },
-    "https://mediacenter.togg.com.tr/tr/t10f": {
-      "hash": "0e4f6ee9a267e7c61a251e3dd1080910c460cc4ba5bce4f2686a190bb2235778",
-      "keywords": [
-        "sipariş",
-        "ön sipariş"
-      ]
-    }
+  "configurator_stock_open": false,
+  "page_hashes": {
+    "https://www.togg.com.tr/t10f": "29189938fe62f42fc3f5a48f56392cdd7a715744848cf9f4a1c16dec07ef143d",
+    "https://www.togg.com.tr/t10f-price-list": "9ef53575ec796d94d24a30ebce649c73c58caf96e0900e321fa0a7e3bc0cb151",
+    "https://mediacenter.togg.com.tr/tr/t10f": "f3ac22afc89a7a35ace72a4eb21f47b4bc08651188231194cb86a932104e36cc"
   },
-  "news": [
-    "CBMipAJBVV95cUxOaFlmeGdUUHlmWjJUSHJzLWlCZ1JKUHZFUm5qbmZZQmNYYjljekZRQmFMNXpIbVlVN1UteGhKRldKUG44eVZ0NzRnZUlfT0hhT3FCY1NRYnhxZGp5eUFwZ0ZhekkwOGdDVk5CSEYxQkE3UzNDU0FtYlRIdEpYQTVKMV9TNXlseUxFbnB6WG1sb3Vfb3ZZeW5ySGIwWWxNOHpzcW02MjUtVHNZN3E4X3E5dVh6cTlVcWhMU05VaVFHLWh6OWxCZ3ExOUJGTDFTZE95RkFMVi1UM3dyVXhoSDFfWUV3UV92RHp1am9NWTdhQy1feU1Wbmw5X1RXXzE2dmpZdHlHbTRVLWZmdUxvSG1IN1hrZDEzNDZvYkxZY1dUSDhhUHJz",
-    "CBMiiwFBVV95cUxNNk9oT2dXY1JFSUQ0Z3VwRkxVeDZoblB3SzBIdFJpQ01nZDZUVmxXVFFVRGV0eWFudFpOZWQxdVljVjJ6NVVJQ1dzZldnQXNHM0NITkpsSDB0OVZiSXE4UHR4LUlZWGpVTTBlV24tVVlsUTNCRnpGMWdaVy1MVUJocGJtZTQta1RWTngw",
-    "CBMiwwFBVV95cUxPc3p4Q2lnczZDa3REWlNLeTJ6WkEwZUpjZGhVT09UYXUxdXlwN3ZOMzZGdXNHbmpzbEMxOTU5QVNDM3huRDRER01SaHZSLTNnWW9mN3czTUo5Sm9oQTlVS1I5aVJYYkg1TGktVUlYSVVKZG52VmRPVTZhUXo2NDRZTHJQeHJzX1QxYm5rVHR6NjBLclB4S3FYeFBGZkxUekJ1RkpWUTZTSjBEU1UwZXRDWi00MUxodVFtZVNaajNMWmpoa1k",
-    "CBMixwFBVV95cUxOcEdhWWo1cW85U245dkQtQm44RDBXdGJkdG81TjZJaFdoeTB6b3F4eUZpVlVyMzAwMzVKazFfODlfczVDN2VlcTMtOWVwQ3llVUkyUTJ5UU95VW1oUk9GTW01OFVkS0JyQ1FBYmx6eFFySzZISEdwTXNRbmRRbmpnSi1WUGtpWEhoOTI4a0ZuUVdSRWh6dnQ5Qlo0bXBJemt3aURBNmg4ZkNGQ1VnZjUzMWxrZTIxTEl1UWYyQWlFWW9qWG9BMnA4",
-    "CBMixAFBVV95cUxNeHVzTGJTVlJiTXlLc1N6WVZUU1dLbDc5eWtBd0c3TVJXNU5lblA3UzNmOEdOeV9SLV9fVkZIYkNMYjAzTnZsd2RTTWZnRnhiOWFaTVZpbUlvc1RHRjV1RTVod2RTOEcteHNURC1HZlF0SURERmM5Zm02V1pNc0h4ODg3emhNbXlNSm91Mlppd20wQXpDWnhUSGUtZDVvZU1hNElQZVcwWFR4S2Y5MGVJY1VNWEstR3ZyNTQyQ1VFY2toWnBY",
-    "CBMioAFBVV95cUxQMGtwY3d4dlNNSnpfdlRpWWVOZlFFblNWOVBaUGZSd25VRktSWTFOWjFoQ285WF9FRndFQXlMelJUeWRJeUlwU0VjN1c4RlFLQ3dxVmNraWdxcUc4VHp4Z1JXWS1UdW01cDJUYWFiQjhuM2RwbG1VbldXQTdjU2l6M2lhWGdjYmF6QnNSQW5GalJLd2p2UzJRbWNORkRfTUxk",
-    "CBMi1wFBVV95cUxOLTNFOWhuSGpPY0pFOVRBRndRTWVqSXQxRERrVlQxaTU2SE5hVC1LcVJHNms2ZUV5enU5TnNsa1NxUFlIOGFFNVZXYkZLenhaWV80WndGaEtrNTNtb0dHU2g4Vmp5NkJoVTlvRENCcDRFVVlDaEQ5MllBQ1NtVUhYQlZjc0E2QXR0M3V6WjRBNnZYeDVlSW9DajFFTTVqR3ZXMVFaTnpHd0hyU1NkUnFVaE0zcG5qTU90SWNHbDIzVmdMT0xmVjBpUVhKVkRsa2NSaFYtQS1WMA",
-    "CBMipgFBVV95cUxQOHVPVExISDBlMHZXSkIxeDhmUE9oZXRRdU1OOHdTemg1Vk90d01ucllibUtTRFRPWWprMUZYTkltY3NoUHUxeW9MS1RNdnNJb0cxampBZ3luam5MVFpXTG8waVljMUhMN0JmcEg2LUtFUGxPRVlENVBkbUVRcmZXSWdfR0xmMXlSSDNVOU0tUHNTcXFVNFlRVVZad05Jc0RfaUI5Y1Jn",
-    "CBMi0gFBVV95cUxNVlVfNnlRYVlxZ3Z5SGEyLWw5WVRWVXoyQ3FfLXhUQW15WTRBdDNyOFBfV0VtTDk4RklyMVJhUU41VHoydjB1VmZfdXVRcEJkX1JMQnNBT3FqeHZHN2lFUUV0QzEtUGNPMHF0aWloVGpvMFFwRmh4YnVlRTNnZE9ZSXlQQk05SXpPVnp5OFBxVWVVWTZLYnRFbkJYVF85LUNkOFhwcVJwQU9CMlQ2WlJkZXdOcWpXNjdreDE4ejdTSUx4M3gzWl9uTXJYdk0wSnIyYnc",
-    "CBMi3AFBVV95cUxOSjl6bTl2X3hCaVppZFlEcnB6WXFlb3VoYkZibkl0dHJqbHRINHQ1bURhQXVBbkpVUVRZVjBGa3VYVS1zRWcxb0NwVzhZX295SFl4TExMeG90ZVJYMk5Jd1lNQVQ3TWR0aTFQQ0tTLTlldjhJeVg3dGlOT3ExOVBxSl9hbFlSdkZaVHJxazl5Wl8tbl8wLUUxZEFWSjlTOERnWWZHOThCRmIwNk9yT00tMlI3b05sa1hGNGVqLWh3dnJNN1VMdXFDb1U3OTlGbFFVRlFLakhNc1VZdzA2",
-    "CBMicEFVX3lxTFBhMlU1TWlYYlgxTDJIdHVqRnl5dVdWcVVWMXY1NEkySFBudTRWS285UjNFTFFBVjdxWWFja00ybVgwWkpvSkh6NVBNU2JkRkV0YkFjbTVyYWtvdVFwYTVkeUp1TGRSVnM4YzUzNngxa2g",
-    "CBMiiAJBVV95cUxQalZZd0h0QVFTeUJ3QjYzVlZ1N0JYN0RmVnBuQjVReGlwRVpvNDRNd1lVTXJibkhVRGM0cDBINVJYWDQwOUZoMUJ5cHBSSE9qRWlWWWlZdEE3VlhabHl3bDVZUkN0dDF5emppZTBfR0g0aWJTYVpVaGVoNE9oOG8wN29mVS14dlQ2TGlWUlhvVW9xRm5sb0locE52Q0h5c05pZjMteVY4OW5Dd2RsMlY5SFJiMUFNbi1vbUlTWVlYYTRvc0MxYUpxeVlPRGRkaGJ2QUhiRWthMGgtM3haVGFRblFYQXplOTBJOWFaTkhHR3BxVHpJQndlTGR5bVFRX1M0RnJZVnUxMkU",
-    "CBMiuwFBVV95cUxQRDljcjEzZ2pGdGdMU2diOWY1RXcyeW15eHd2ZjlpMjJXbDNHRjBJSEtjVzVFNEdhTHN0TVpMOExWemxxbHc1QjJ3eDNIa2szeXMwNW1xRDZJS19aaHNrc3BYTnE1UkxUWU5yOXdxWURyNGIxaDdBMllWZmRQc1lxM1ZsNTFycWpNYkFSRmpSd3dCZFZUM0YzLWMyR3ZhZXZLQWVQeVllcTdmNWdYSkRCWDBfazVERm5YcEZV0gG7AUFVX3lxTFBEOWNyMTNnakZ0Z0xTZ2I5ZjVFdzJ5bXl4d3ZmOWkyMldsM0dGMElIS2NXNUU0R2FMc3RNWkw4TFZ6bHFsdzVCMnd4M0hrazN5czA1bXFENklLX1poc2tzcFhOcTVSTFRZTnI5d3FZRHI0YjFoN0EyWVZmZFBzWXEzVmw1MXJxak1iQVJGalJ3d0JkVlQzRjMtYzJHdmFldktBZVB5WWVxN2Y1Z1hKREJYMF9rNURGblhwRlU",
-    "CBMi0gFBVV95cUxPYU5rMmFPQUNoR2REVTlVQk82Q1JmQVprWHhZNGdQb2NDVXkySlpOT2VJclhQWVBzNTlDdkQ2bFIydGJPTG16NGMtc2xIZHJTS0FhYUdMZjR4YWhzQmE1cEkwYWp2dWVpOGstcU1EeW5kNVoxSFh1eUxzSTl3ZFFHdGlSNEpPcl9ybWZtNGhZTldLNVRMQkgwTDF5RzJPclZ1cEdaa2M1aFNYcldZWEYwUlJSUVhtZHVHWnBLWU5Sb3hPZjF0UHdNSWI3Sk9rbGVMUEE",
-    "CBMiiwFBVV95cUxNY2tWTXhSeUpQVFl5T2I0Tzh3cFl4NHJ1c0F0ZVlTZ2dzRTI0Yl9RTDlGRVFDZjBlUFl3S0lYRmM4V2JSUVhWVUM0TU5zbUd4TEtCSGhmcVNtejdVS0thaDJJeVFpNnZ2TGU3S0t4Z09pTGZtelpkVmdOcFZlQUlFdWx1TTVuMVpkRUpN",
-    "CBMiswFBVV95cUxNXzdLNlZiWjZXNnEtdzV0UnJWWkIybHpndVFrOEJEOXdaTDhLT3FiSXlULU1xMFVYSUZUVGdCQm5wUzBWWVJtZ2owUGhaZjJacFFJOXJ2LWdVb3IwM0ZuU1pOc0ZmdXpFTGhLTzB4TWFRMFVDT3pEd3RzT1U4bGxiS2hCVXJjSlo0elZYTVREdmxuNFFlRU90NmdCMDN2SUh2SHVqQWdHdTU0cEhWR3hDUk56TdIBuwFBVV95cUxQRDljcjEzZ2pGdGdMU2diOWY1RXcyeW15eHd2ZjlpMjJXbDNHRjBJSEtjVzVFNEdhTHN0TVpMOExWemxxbHc1QjJ3eDNIa2szeXMwNW1xRDZJS19aaHNrc3BYTnE1UkxUWU5yOXdxWURyNGIxaDdBMllWZmRQc1lxM1ZsNTFycWpNYkFSRmpSd3dCZFZUM0YzLWMyR3ZhZXZLQWVQeVllcTdmNWdYSkRCWDBfazVERm5YcEZV",
-    "CBMijwFBVV95cUxON1ZzSXM5OHN0SXJBNE16T2d1YjVmTldFR0ZTVUxrdzJ5Ti1VRHdfYWZ3Ukl0dndvTGI1b29qenptQnA3dHl0T0VOWXRETHVoYUQ5Z25wc3hIZC05dm5mR0EtZnFsNW1XZGNpcVRHU0JPRnk4SHVMSUtCMW80Uk5DREE3QXpSUkdTVllOb0tBNA",
-    "CBMikAFBVV95cUxOYW9jdWhPV3ZfTDBqWU0zLWxMaXR4VWtOb2FWU1RuQXZkNXNyLXQzT25DZkdiLU1mQ2dUQ2stYndpbEJCOWNTQl9jZV9fSGRDUUdVcHZxcjBPcVh3TUZSUDEwVmRKNy1aak1oTWNrVll5ZDRtUmREUVA2NEQ2N3lnS2ktYzdfR2JVX0RucGFqRDU",
-    "CBMiqAFBVV95cUxNZ1c5djlfaXpHWUhDa3l2ajVPb1pSVW95eWF5dzFmcUExNUR4ZldVQm15d2ljaHNvVUFfMTVFbUJ5czllTTVYUG9jcGk2TlF1U2xrVnlRM3NxeVFSVTlCdnRobGRiWGkwSlZlYkFZWUJvVG82S1hjR2FDenBFV1ROcmV3elF4OUxwSmVtcVpyTjU4eDVxaU1iT2o2MEkzTjlIbkxzNTlhTDLSAa4BQVVfeXFMUDZyMi1lV1RpakxEVjRxcXF1azRiZWFIckstd05abkRBbk9mZkNfZVI2dGVNcXc1SkdzeGZSZ2pPS1ZNcVBIcnlocFkwVnVWRVJzUlJ3bEtjbTd6bUh3ZVFkdU1hemVBT3JMMW9kX0dtU1lLQ0hFSWk5Z051bEdadm5OaHliS2w0MDB4RWhBaTVHUWdHV2gtUU1UY1RXQW9GWm5DRGVLUWlVV1ZqTEpR"
-  ]
+  "found_keywords": {
+    "https://www.togg.com.tr/t10f": [
+      "sipariş"
+    ],
+    "https://www.togg.com.tr/t10f-price-list": [
+      "sipariş",
+      "satın al"
+    ],
+    "https://mediacenter.togg.com.tr/tr/t10f": [
+      "sipariş",
+      "ön sipariş"
+    ]
+  },
+  "seen_news": [
+    "CBMikwFBVV95cUxPZENlQmpQc2R3TThkUG1JTmx0cXg4bVdXUW5rWTRUdk9nc05xUDlnaWNwRGdtbVFZWlFLTXFvZXJuMDVmZWJlV0JrQ3BSeUhUY0xocWt3QmdHUEpHbmQ4cHU4UzNYVnVnQ1NvUDUzMFVDRVhvOXdvcTV0aWw2TGVHQnl2azR1Sjgxb012bGF1UjVRVjA",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.memurlar.net%2falbum%2f28350%2ftogg-dan-dev-kampanya.html&c=17372061656139164630&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.trthaber.com%2fhaber%2fgundem%2ftogg-t10f-on-siparisi-basladi-iste-fiyatlar-919887.html&c=16370409527649646889&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.bursadabugun.com%2fhaber%2ftogg-da-dev-kampanya-basladi-t10x-ve-t10f-de-yeni-donem-1940009.html&c=4832123766832441241&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.milligazete.com.tr%2ftogg-t10f-ve-t10x-ekim-fiyatlari-ne-kadar-2026-togg-guncel-fiyat-listesi&c=17994350037825289994&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2ffinans.mynet.com%2fhaber%2fdetay%2fotomotiv%2ftogg-da-ekim-ayi-fiyatlari-belli-oldu-iste-detaylar%2f581114%2f&c=15713686733811677418&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fbigpara.hurriyet.com.tr%2fhaberler%2fgenel-haberler%2ftoggun-yeni-modeli-t10f-icin-on-siparis-tarihleri-belli-oldu_ID1617615%2f&c=87965572769968754&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fshiftdelete.net%2ftogg-t10f-ayder-rengine-kavustu-karadeniz-yesili-artik-sedan-modelde&c=17028109004904341611&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.yenisafak.com%2fgaleri%2fekonomi%2ftogg-kampanyasinda-aylik-taksitler-belli-oldu-togg-t10x-alacaklara-800-bin-tl-faizsiz-kredi-mujdesi-4865747&c=6371681624392444533&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.haberler.com%2fhaberler%2ftogg-t10f-fiyati-ne-kadar-togg-t10f-ne-zaman-19026221-haberi%2f&c=17303597736732854085&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.internethaber.com%2ftogg-sayisi-kac-oldu-turkiye-yollarindaki-togg-sayisi-120-bine-ulasti-mi-2459740h.htm&c=3712513922216183845&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fwww.tamindir.com%2fhaber%2ftogg-t10x-ve-t10f-modellerine-zam-geldi_107191%2f&c=8994919046817533766&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6ada8f7a9b654ccfbf6d545ccc58b56b&url=https%3a%2f%2fshiftdelete.net%2ftogg-t10f-ozellikleri-fiyati-ve-cikis-tarihi-hakkinda-her-sey&c=8656909232132343553&mkt=en-us"
+  ],
+  "seen_tweets": []
 }
