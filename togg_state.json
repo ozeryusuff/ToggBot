@@ -1,7 +1,7 @@
 {
-  "configurator_stock_open": false,
+  "configurator_stock_open": true,
   "page_hashes": {
-    "https://www.togg.com.tr/t10f": "29189938fe62f42fc3f5a48f56392cdd7a715744848cf9f4a1c16dec07ef143d",
+    "https://www.togg.com.tr/t10f": "7003a2d5c38d7435b016410fff1c8082a5620a1ff135d018e92caef15d55bc07",
     "https://www.togg.com.tr/t10f-price-list": "9ef53575ec796d94d24a30ebce649c73c58caf96e0900e321fa0a7e3bc0cb151",
     "https://mediacenter.togg.com.tr/tr/t10f": "f3ac22afc89a7a35ace72a4eb21f47b4bc08651188231194cb86a932104e36cc"
   },
@@ -65,7 +65,20 @@
     "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb392717cb43ec82a978eb9cdcbcef&url=https%3a%2f%2fwww.yenisafak.com%2fgaleri%2fekonomi%2ftogg-kampanyasinda-aylik-taksitler-belli-oldu-togg-t10x-alacaklara-800-bin-tl-faizsiz-kredi-mujdesi-4865747&c=6371681624392444533&mkt=en-us",
     "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb392717cb43ec82a978eb9cdcbcef&url=https%3a%2f%2fshiftdelete.net%2ftogg-t10f-ozellikleri-fiyati-ve-cikis-tarihi-hakkinda-her-sey&c=8656909232132343553&mkt=en-us",
     "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb392717cb43ec82a978eb9cdcbcef&url=https%3a%2f%2fwww.internethaber.com%2ftogg-sayisi-kac-oldu-turkiye-yollarindaki-togg-sayisi-120-bine-ulasti-mi-2459740h.htm&c=3712513922216183845&mkt=en-us",
-    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb392717cb43ec82a978eb9cdcbcef&url=https%3a%2f%2fwww.tamindir.com%2fhaber%2ftogg-t10x-ve-t10f-modellerine-zam-geldi_107191%2f&c=8994919046817533766&mkt=en-us"
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb392717cb43ec82a978eb9cdcbcef&url=https%3a%2f%2fwww.tamindir.com%2fhaber%2ftogg-t10x-ve-t10f-modellerine-zam-geldi_107191%2f&c=8994919046817533766&mkt=en-us",
+    "CBMifEFVX3lxTE9scVp1LVlTSzFjaHVDWmpURzNTQno4WUg3ME9Jb0FuUkc5Qmh3MmpUdV9vVTk4T01tWUV0Q1RtOHl4NkZ3MGcwOXBnblJiemtEV1JvTU5YRUVjbUZJTm85UHk2djdzM3dFVTJYNEQ4TGkwOGNxMzU3V1lPMzQ",
+    "CBMilwFBVV95cUxPWkZCb0RHX1NCbl9wTDhqYmtYYjNmZ3lTWjlURURuMVl4dVdYTk9aS1hvRXMzZ19TakxTU1hKTTM3SkJuZ3NIbEpWSFdZSTl1aF92bjUybkNqX1RfaFI1dnAxY2JzOUJtd2wxUFMzb3B3S3BCdXBYdnc5Vm5ZVmdZTjBVZWVsWFBFQ1Vzcnk2eUM4M19fNWxj",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.yenisafak.com%2fgaleri%2fekonomi%2ftogg-yeni-aracini-tanitti-43-saniyede-100-kilometre-hiza-cikiyor-26-dakikada-sarj-oluyor-iste-t10f-4more-fiyati-4866736&c=6740649460145554826&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.cnnturk.com%2fekonomi%2fbakan-kacir-yeni-toggu-paylasti-satis-tarihi-de-belli-oldu-3483672&c=828555351775339433&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.msn.com%2ftr-tr%2ffinans%2fgenel%2fbakan-kac%25C4%25B1r-togg-g%25C3%25BCnde-375-ara%25C3%25A7-%25C3%25BCretim-h%25C4%25B1z%25C4%25B1yla-yoluna-g%25C3%25BC%25C3%25A7l%25C3%25BC-%25C5%259Fekilde-devam-ediyor%2far-AA2fUATU&c=10526658813464690610&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.memurlar.net%2falbum%2f28350%2ftogg-dan-dev-kampanya.html&c=17372061656139164630&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fbigpara.hurriyet.com.tr%2fhaberler%2fgenel-haberler%2ftoggun-yeni-modeli-t10f-icin-on-siparis-tarihleri-belli-oldu_ID1617615%2f&c=87965572769968754&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.bursadabugun.com%2fhaber%2ftogg-da-dev-kampanya-basladi-t10x-ve-t10f-de-yeni-donem-1940009.html&c=4832123766832441241&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.milligazete.com.tr%2ftogg-t10f-ve-t10x-ekim-fiyatlari-ne-kadar-2026-togg-guncel-fiyat-listesi&c=17994350037825289994&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.trthaber.com%2fhaber%2fgundem%2ftogg-t10f-on-siparisi-basladi-iste-fiyatlar-919887.html&c=16370409527649646889&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.haberler.com%2fhaberler%2ftogg-t10f-fiyati-ne-kadar-togg-t10f-ne-zaman-19026221-haberi%2f&c=17303597736732854085&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fwww.tamindir.com%2fhaber%2ftogg-t10x-ve-t10f-modellerine-zam-geldi_107191%2f&c=8994919046817533766&mkt=en-us",
+    "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6adb7c27f4b74a93965411c8ba917e1f&url=https%3a%2f%2fshiftdelete.net%2ftogg-t10f-ayder-rengine-kavustu-karadeniz-yesili-artik-sedan-modelde&c=17028109004904341611&mkt=en-us"
   ],
   "seen_tweets": []
 }
